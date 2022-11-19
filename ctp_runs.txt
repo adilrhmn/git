@@ -1,0 +1,15 @@
+
+
+http://bugzilla.tintri.com/show_bug.cgi?id=92580 - 	RESOLVED FIXED-Not able to clone centos-minimal in uww-ti-qa-vcenter67-1.tintri.com. Error: centos-minimal.vmdk was not found
+
+http://bugzilla.tintri.com/show_bug.cgi?id=92709  - RESOLVED FIXED - Timeout, we didnt match the prompt on cmd: mount /dev/sdb1 /data1 2> /tmp/stderr_MainThread.txt t: 20
+
+http://bugzilla.tintri.com/show_bug.cgi?id=92668 - RESOLVED DUPLICATE of bug 91768 -ApiError: ERR-API-0102: Failed to find default entity of type 'Datastore' (T620 runs on TXOS 5.5.0.1)
+
+http://bugzilla.tintri.com/show_bug.cgi?id=91768 -  NEW -Set test cases with correct models when running TXOS 4.6.x vs 5.x
+
+http://bugzilla.tintri.com/show_bug.cgi?id=90526 - VERIFIED FIXED -AdvancedCloningTests::test_cloneCustomization:FAIL 
+
+http://bugzilla.tintri.com/show_bug.cgi?id=91502 - NEW - GFC failed, MultipleFilesThreadedIO::test_verifyreads_snapshot_short:FAIL AssertionError: False is not true
+
+http://bugzilla.tintri.com/show_bug.cgi?id=93803 - NEW - GFC:Demo2Tests::test_ioIterations:FAIL vmodl.fault.HostCommunication
